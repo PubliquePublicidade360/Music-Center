@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" apprev="18043" start="node7">
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="170.942" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77630039" longitude="-51.01855478" title="Music Center" copyright="" nodeid="node7" customnodeid="" info="" heading="170.942" datetime="2025:04:12 20:11:23" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="11.2765" description="" distance="1.71118" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="162.46" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77631482" longitude="-51.01854879" title="Music Center" copyright="" nodeid="node2" customnodeid="" info="" heading="162.46" datetime="2025:04:12 20:11:19" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="182.795" description="" distance="1.71118" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node7}"/>
+      <hotspot target="$fwd" pan="92.616" description="" distance="2.12659" title="Music Center" tilt="0" id="Point02" skinid="ht_node" url="{node5}"/>
+      <hotspot target="$fwd" pan="-6.00751" description="" distance="1.49461" title="Music Center" tilt="0" id="Point03" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="175.033" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77632799" longitude="-51.01854578" title="Music Center" copyright="" nodeid="node3" customnodeid="" info="" heading="175.033" datetime="2025:04:12 20:11:20" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="186.565" description="" distance="1.49461" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node2}"/>
+      <hotspot target="$fwd" pan="6.82408" description="" distance="1.63231" title="Music Center" tilt="0" id="Point02" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="149.8" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77634236" longitude="-51.01854242" title="Music Center" copyright="" nodeid="node1" customnodeid="" info="" heading="149.8" datetime="2025:04:12 20:11:19" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="161.591" description="" distance="1.63231" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="66.9874" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77630823" longitude="-51.01852868" title="Music Center" copyright="" nodeid="node5" customnodeid="" info="" heading="66.9874" datetime="2025:04:12 20:11:21" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="177.143" description="" distance="2.12659" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node2}"/>
+      <hotspot target="$fwd" pan="-92.151" description="" distance="1.49697" title="Music Center" tilt="0" id="Point02" skinid="ht_node" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="150.881" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77632081" longitude="-51.01852331" title="Music Center" copyright="" nodeid="node4" customnodeid="" info="" heading="150.881" datetime="2025:04:12 20:11:19" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="171.743" description="" distance="1.49697" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node5}"/>
+      <hotspot target="$fwd" pan="-3.92799" description="" distance="1.87518" title="Music Center" tilt="0" id="Point02" skinid="ht_node" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" height="1488" width="1488" levelbias="0.400">
+      <level preload="0" predecode="0" height="1488" width="1488"/>
+      <level preload="0" predecode="0" height="744" width="744"/>
+      <level preload="1" predecode="1" height="372" width="372"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="141.742" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" description="" author="" latitude="-26.77633607" longitude="-51.01851527" title="Music Center" copyright="" nodeid="node6" customnodeid="" info="" heading="141.742" datetime="2025:04:12 20:11:22" comment="" tags="Music Center"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" borderalpha="1" height="20" width="180" background="1" border="1" enabled="1" wordwrap="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot target="$fwd" pan="166.933" description="" distance="1.87518" title="Music Center" tilt="0" id="Point01" skinid="ht_node" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" blendtime="1" enabled="1" zoomspeed="2" zoomfov="20" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" sensitivity="8" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" description="" author="" latitude="" longitude="" title="" copyright="" nodeid="master" customnodeid="" info="" heading="0" datetime="" comment="" tags=""/>
+  </masternode>
+</tour>
